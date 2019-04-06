@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "SlimMFI", "SlimMFI\SlimMFI.cproj", "{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug 12MHz|AVR = Debug 12MHz|AVR
+		Debug|AVR = Debug|AVR
+		Release 12MHz|AVR = Release 12MHz|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Debug 12MHz|AVR.ActiveCfg = Debug 12MHz|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Debug 12MHz|AVR.Build.0 = Debug 12MHz|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Debug|AVR.ActiveCfg = Debug|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Debug|AVR.Build.0 = Debug|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Release 12MHz|AVR.ActiveCfg = Release 12MHz|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Release 12MHz|AVR.Build.0 = Release 12MHz|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Release|AVR.ActiveCfg = Release|AVR
+		{C68D0696-3D13-4A54-BD65-F88CB9C3D8C5}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

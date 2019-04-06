@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "MFiboot", "mfiboot\MFiboot.cproj", "{BECF2486-39F5-4672-AD83-06B552CE429E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug 12MHz|AVR = Debug 12MHz|AVR
+		Debug 8MHz|AVR = Debug 8MHz|AVR
+		Release 12MHz|AVR = Release 12MHz|AVR
+		Release 8MHz|AVR = Release 8MHz|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Debug 12MHz|AVR.ActiveCfg = Debug 12MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Debug 12MHz|AVR.Build.0 = Debug 12MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Debug 8MHz|AVR.ActiveCfg = Debug 8MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Debug 8MHz|AVR.Build.0 = Debug 8MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Release 12MHz|AVR.ActiveCfg = Release 12MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Release 12MHz|AVR.Build.0 = Release 12MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Release 8MHz|AVR.ActiveCfg = Release 8MHz|AVR
+		{BECF2486-39F5-4672-AD83-06B552CE429E}.Release 8MHz|AVR.Build.0 = Release 8MHz|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
