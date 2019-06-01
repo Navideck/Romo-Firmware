@@ -16,7 +16,7 @@ Romo SDK gives you the power to write your own software for Romo robots. Firmwar
 ## FAQ
 
 ## How do I build the firmwware?
-Use `Atmel Studio 6` and open `firmware.atsln`
+Use `Atmel Studio 7` and open `firmware.atsln`
 
 ## How can I send the firmware to Romo?
 There is an `updateFirmware` method inside `RMCore`. Use at your own risk!
